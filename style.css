@@ -29,11 +29,11 @@ figcaption {
 
 #featuredproperty {
   width: 800;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 #featuredproperty p {
+  margin-right: auto;
+  margin-left: auto;
   text-align: center;
 }
 
