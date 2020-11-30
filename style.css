@@ -30,7 +30,8 @@ figcaption {
 
 #featuredproperty p {
   width: 800px;
-  margin-right: 
+  margin-right: 50px;
+  margin-left: 50px;
   text-align: center;
 }
 
